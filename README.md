@@ -13,6 +13,7 @@ A self-contained tutorial on the theory of NP-completeness, from Turing machines
 | [05-cooks-theorem.md](05-cooks-theorem.md) | Cook-Levin theorem: SAT is NP-complete |
 | [06-classic-npc-problems.md](06-classic-npc-problems.md) | Gallery of classic NP-complete problems and reduction chains |
 | [07-implications.md](07-implications.md) | P vs NP, practical consequences, and coping strategies |
+| [08-resources.md](08-resources.md) | Videos, courses, textbooks, papers, and learning paths |
 
 ## Prerequisites
 
