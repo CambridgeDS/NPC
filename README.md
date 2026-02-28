@@ -15,6 +15,7 @@ A self-contained tutorial on the theory of NP-completeness, from Turing machines
 | [07-implications.md](07-implications.md) | P vs NP, practical consequences, and coping strategies |
 | [08-resources.md](08-resources.md) | Videos, courses, textbooks, papers, and learning paths |
 | [09-towards-p-neq-np.md](09-towards-p-neq-np.md) | Could (g,f)-factor techniques inspire a P ≠ NP proof? |
+| [10-prisoners-factor-synthesis.md](10-prisoners-factor-synthesis.md) | Synthesising 100 Prisoners + (g,f)-factors toward P ≠ NP |
 
 ## Prerequisites
 
